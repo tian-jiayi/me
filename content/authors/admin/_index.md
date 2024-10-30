@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Hey, you found me! I am currently a Sociology PhD researcher at the University of Edinburgh. I am also serving as the PhD Rep at the BSA Sociology of the Arts Study Group. Before starting my PhD, I received an MPhil in Middle and East Asian Studies (Chinese Studies) at the University of Cambridge (Girton Collge), a LLB in Sociology and a BA in Theory and History of Art at Peking University. My current project explores the culture of creativity among self-taught artists in post-socialist China. Please feel free to drop me a message and say hi ;)
+Hey, you found me! I am currently a Sociology PhD researcher at the University of Edinburgh. I am also serving as the PhD Rep at the BSA Sociology of the Arts Study Group. Before starting my PhD, I received an MPhil in Middle and East Asian Studies (Chinese Studies) at the University of Cambridge (Girton Collge), a LLB in Sociology and a BA in Theory and History of Art at Peking University. My current project explores the culture of creativity among self-taught artists in post-socialist China. Please feel free to drop me a message and say hi!
