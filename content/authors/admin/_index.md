@@ -3,15 +3,15 @@
 title: 田嘉毅
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: TIAN Jiayi Yi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiayi
+last_name: Tian
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,38 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of Edinburgh
+#   url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'Jiayi.Tian@ed.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0005-4523-6855
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cultural Sociology
+  - Creativity
+  - Chinese Art Scene
+  - Transition
 
-education:
+# education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
@@ -183,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey, you found me! I am currently a Sociology PhD researcher at the University of Edinburgh. I am also serving as the PhD Rep at the BSA Sociology of the Arts Study Group. Before starting my PhD, I received an MPhil in Middle and East Asian Studies (Chinese Studies) at the University of Cambridge (Girton Collge), a LLB in Sociology and a BA in Theory and History of Art at Peking University. My current project explores the culture of creativity among self-taught artists in post-socialist China. Please feel free to drop me a message and say hi ;)
